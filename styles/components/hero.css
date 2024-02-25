@@ -3,9 +3,6 @@
   height: auto;
 }
 
-
-
-
 .hero {
   text-align: center;
   display: flex;
@@ -20,21 +17,17 @@
   border-radius: 50%;
   width: 6rem;
   height: 6rem;
-
   border: 3px solid black;
-
 }
 
 .hero__subtitle {
-  color: var(--clr-slate800);
+  color: #E7B10A;
   font-size: var(--size-base);
   line-height: 0.9;
 }
 
 .hero__title {
-  color: var(--clr-slate400);
   text-transform: uppercase;
-  font-size: var(--size-4xl);
   letter-spacing: -0.05em;
   line-height: 0.9;
 }
